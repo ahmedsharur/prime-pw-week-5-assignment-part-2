@@ -1,0 +1,24 @@
+
+
+
+header{
+  background-color:  #9400D3;
+  color:             #FFFFE0;
+  text-align:        center;
+}
+
+main{
+  background-color: #D3D3D3;
+  padding: 1em;
+}
+
+
+body{
+  background-image: url("record.png");
+  background-repeat: repeat;
+  margin: 0;
+}
+
+.mufo{
+    color: red;
+}
